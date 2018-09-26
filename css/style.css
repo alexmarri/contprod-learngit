@@ -1,5 +1,19 @@
 body{
     padding: 0;
     margin: 0;
-    background-color: rgba(236, 229, 190, 0.685);
+    background-color: #f3f4fb;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+img{
+    padding: 1em;
+    width: 50%;
+    height: auto;
+}
+
+.box{
+    display: table-cell;
+    align-content: center;
+    text-align: center;
 }
